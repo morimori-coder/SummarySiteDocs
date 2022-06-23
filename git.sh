@@ -7,3 +7,5 @@ git push
 # 設計書リポジトリをステージングへ移動
 cd ..
 git add ImagesForSummaryWebsite.wiki
+git commit -m 'update wiki'
+git push
